@@ -1,0 +1,52 @@
+1.	Callbacks	
+2.	Promises	
+3.	async await		
+4.	classes and inheritance		
+5.	factory and constructor function	
+6.	Hoisting		
+7.	Higher order function		
+8.	generators.	
+9.	destructuring	
+10.     pass by value and pass by reference	
+11.     recursive function.	
+12.     closures	
+13.     prototype.
+14.     fetch api	
+15.     storages.
+16.     spread operator, rest operator
+17.     iterators.	
+18.     diff bet func and arrow func
+19.     call apply bind
+20.     modules
+21.     events
+22.     this keyword
+23.     event loop
+24.     type conversion
+25.     currying
+26.     Immediately invoked function
+27.     What is memoization?
+28.     set and weak set, getters and setters
+29.     map and weak map
+30.     static
+		
+
+
+pending :
+
+
+3. What is the difference between exec () and test () methods in javascript?
+4. .
+5. 
+6. defered.
+https://www.interviewbit.com/javascript-interview-questions/#output-of-following-code-3
+
+
+
+
+
+
+
+
+
+
+
